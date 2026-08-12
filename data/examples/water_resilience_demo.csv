@@ -1,0 +1,7 @@
+project_id,project_name,economic_value,environmental_value,stakeholder_reach,implementation_burden,scale,volatility
+W01,Rainwater harvesting,68,88,75,60,65,30
+W02,Leak detection sensors,72,70,82,30,35,25
+W03,Low-flow fixtures,58,66,90,20,40,15
+W04,Wastewater reuse,80,95,78,85,80,45
+W05,Smart irrigation,55,72,65,35,45,35
+W06,Awareness campaign,25,30,96,10,15,20

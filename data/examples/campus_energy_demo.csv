@@ -1,0 +1,9 @@
+project_id,project_name,economic_value,environmental_value,stakeholder_reach,implementation_burden,scale,volatility
+E01,Rooftop solar,85,92,80,72,75,35
+E02,LED retrofit,62,55,90,25,45,20
+E03,Smart HVAC controls,78,74,76,55,60,40
+E04,Occupancy sensors,50,46,70,22,30,18
+E05,Energy dashboard,42,35,95,18,20,25
+E06,Battery storage,70,78,60,88,70,55
+E07,Building envelope retrofit,76,82,68,80,85,30
+E08,Student energy lab,35,30,98,28,25,22

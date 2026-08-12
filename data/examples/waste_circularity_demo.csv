@@ -1,0 +1,7 @@
+project_id,project_name,economic_value,environmental_value,stakeholder_reach,implementation_burden,scale,volatility
+C01,Source segregation,50,72,92,22,35,25
+C02,Composting unit,60,80,75,48,55,30
+C03,Biogas plant,78,92,70,82,75,50
+C04,Reusable dining system,65,76,88,45,50,35
+C05,E-waste take-back,42,68,72,28,25,20
+C06,Zero-waste procurement,72,85,80,65,60,45

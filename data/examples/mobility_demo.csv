@@ -1,0 +1,7 @@
+project_id,project_name,economic_value,environmental_value,stakeholder_reach,implementation_burden,scale,volatility
+M01,Electric shuttle,75,82,85,78,70,45
+M02,Cycle-share,48,65,80,30,35,25
+M03,EV charging,62,70,68,55,50,35
+M04,Carpool platform,35,42,90,18,20,20
+M05,Pedestrian upgrade,55,75,95,52,65,15
+M06,Remote-work scheduling,40,38,72,12,15,30

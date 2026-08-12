@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use SVDF in research, please cite this software and the associated paper when available."
+title: "Shared Value Decision Frontier (SVDF)"
+type: software
+authors:
+  - family-names: Akhtar
+    given-names: Mohammad Amir Khusru
+    email: akakhtar.2024@gmail.com
+    affiliation: Usha Martin University, Ranchi–834001, Jharkhand, India
+year: 2026
+repository-code: "https://github.com/Arithmetic-Power-Geometry/SVDF"
+license: Apache-2.0
