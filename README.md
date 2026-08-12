@@ -5,7 +5,7 @@
 **Author:** Mohammad Amir Khusru Akhtar  
 Usha Martin University, Ranchi–834001, Jharkhand, India  
 Email: akakhtar.2024@gmail.com  
-Try the SVDF Decision Support Software: https://github.com/Arithmetic-Power-Geometry/SVDF-Decision-Studio
+Try the SVDF Decision Support Software: https://arithmetic-power-geometry.github.io/SVDF-Decision-Studio/
 
 ## What problem does SVDF solve?
 
