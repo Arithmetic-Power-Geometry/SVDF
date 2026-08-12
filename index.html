@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SVDF | Shared Value Decision Frontier</title><link rel="stylesheet" href="styles.css"></head>
+<body><main>
+<header><h1>Shared Value Decision Frontier</h1><p>One-click strategic screening for sustainability portfolios. Lower implementation complexity and higher shared value gain are preferred.</p></header>
+<section class="card"><div class="actions"><button id="paper" class="primary">Reproduce Paper Analysis</button><label class="upload">Load your CSV<input id="file" type="file" accept=".csv"></label></div>
+<div class="api"><input id="apiUrl" placeholder="Public CORS-enabled CSV/JSON API URL"><button id="apiBtn">Load API</button></div><p class="note">The browser version never stores data. For private APIs use the local Python app with the <code>SVDF_API_KEY</code> environment variable.</p></section>
+<section id="summary" class="card muted">Choose a data source to begin.</section>
+<section class="grid"><div class="card"><h2>SVDF frontier</h2><div id="plot"></div></div><div class="card"><h2>Frontier table</h2><div id="table"></div></div></section>
+<section class="card"><h2>Model</h2><p><b>SVG</b> is the geometric mean of economic, environmental and stakeholder-reach scores. <b>IC</b> combines intervention burden, building scale and baseline volatility. A project survives if no alternative has both lower-or-equal IC and higher-or-equal SVG.</p><button id="download" disabled>Download scored CSV</button></section>
+<footer>SVDF research software. Paper dataset derived from UNICON (Moraliyage et al., 2022).</footer>
+</main><script src="app.js"></script></body></html>
