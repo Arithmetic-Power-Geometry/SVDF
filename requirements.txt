@@ -1,6 +1,0 @@
-pandas>=2.1
-numpy>=1.26
-matplotlib>=3.8
-gradio>=5.0
-requests>=2.31
-pytest>=8.0
